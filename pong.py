@@ -150,7 +150,7 @@ class Ball:
         self.dx = math.cos(self.angle) * self.speed * (1 if pygame.time.get_ticks() % 2 == 0 else -1)
         self.dy = math.sin(self.angle) * self.speed
 
-# ---------------- Pong Game Class ----------------
+# Game class for pong
 class PongGame:
     def __init__(self, sound_on=True):
         # Create the player (left paddle) and CPU (right paddle)
