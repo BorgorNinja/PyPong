@@ -35,8 +35,8 @@ pip install pygame
 Clone this repository and navigate to the project folder:
 
 ```sh
-git clone https://github.com/your-username/pong-game.git
-cd pong-game
+git clone https://github.com/your-username/PyPong.git
+cd PyPong
 ```
 
 Then, run the game with:
