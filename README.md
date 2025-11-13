@@ -35,7 +35,7 @@ pip install pygame
 Clone this repository and navigate to the project folder:
 
 ```sh
-git clone https://github.com/your-username/PyPong.git
+git clone https://github.com/BorgorNinja/PyPong.git
 cd PyPong
 ```
 
